@@ -1,0 +1,5 @@
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial
+
+
+email verification:
+https://www.robinwieruch.de/react-firebase-email-verification
